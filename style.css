@@ -29,3 +29,14 @@ body {
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+.leftSide{
+  text-align: left;
+  float: left;
+}
+
+.rightSide{
+  text-align: right;
+  float: left;
+}
+

@@ -30,6 +30,10 @@ body {
   margin-bottom: 50px;
 }
 
+.floatContainer{
+  padding: 20px;
+}
+
 .leftSide{
   width: 50%;
   text-align: left;

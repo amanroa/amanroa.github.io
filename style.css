@@ -1,20 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
 .title {
-  font-weight: lighter;
-  font-family: "GFS Didot";
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
   color: #1A0B8C;
   font-size: 50px;
 }
 
 .subtitle {
-  font-weight: lighter;
-  font-family: "GFS Didot";
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
   color: #4132AC;
   font-size: 37px;
 }
 
 .basic {
-  font-family: "GFS Didot";
+  font-family: 'Poppins', sans-serif;
   color: black;
   font-size: 20px;
   text-align: left;

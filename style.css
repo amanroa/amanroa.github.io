@@ -1,11 +1,12 @@
 .title {
+  font-weight: lighter;
   font-family: "GFS Didot";
   color: #1A0B8C;
   font-size: 50px;
 }
 
 .subtitle {
-  font-weight: bold;
+  font-weight: lighter;
   font-family: "GFS Didot";
   color: #4132AC;
   font-size: 37px;

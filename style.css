@@ -28,12 +28,12 @@ body {
   margin-bottom: 50px;
 }
 
-.floatContainer{
+.float-container{
   padding: 20px;
   border: 2px solid red;
 }
 
-.leftSide{
+.float-child{
   width: 50%;
   float: left;
   padding: 20px;

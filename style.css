@@ -34,15 +34,8 @@ body {
 }
 
 .float-child{
-  width: 100px;
+  width: 300px;
   float: left;
   padding: 20px;
   border: 2px solid blue;
 }
-
-.rightSide{
-  width: 50%;
-  float: left;
-  padding: 20px;
-}
-

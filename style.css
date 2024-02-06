@@ -28,14 +28,17 @@ body {
   margin-bottom: 50px;
 }
 
-.float-container{
-  padding: 20px;
+.flex-container{
+  display:flex;
   border: 2px solid red;
 }
 
-.float-child{
-  width: 300px;
-  float: left;
+.flex-child{
+  flex:1;
   padding: 20px;
   border: 2px solid blue;
 }
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 

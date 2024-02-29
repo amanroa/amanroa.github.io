@@ -41,7 +41,7 @@ body {
 
 .flex-child{
   flex:1;
-  padding: 10px;
+  padding: 20px 10px;
 }
 
 .flex-child:first-child {

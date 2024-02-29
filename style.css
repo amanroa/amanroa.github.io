@@ -58,9 +58,9 @@ body {
 }
 
 .topnav a:hover {
-  color: #513ed6;
+  color: #3e68d6;
 }
 
 .topnav a.active {
-  color: #7432ac;
+  color: #913ed6;
 }

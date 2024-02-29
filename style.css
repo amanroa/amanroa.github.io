@@ -50,7 +50,7 @@ body {
   float: right;
   color: #4132AC;
   text-align: center;
-  padding: 14px 16px;
+  padding: 11px 24px;
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
@@ -58,10 +58,9 @@ body {
 }
 
 .topnav a:hover {
-  color: orange;
+  color: #513ed6;
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
-  color: white;
+  color: #7432ac;
 }

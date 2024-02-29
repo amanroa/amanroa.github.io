@@ -29,6 +29,10 @@ body {
   margin-bottom: 80px;
 }
 
+.big-flex{
+  display:flex;
+}
+
 .flex-container{
   display:flex;
   flex-direction:column;

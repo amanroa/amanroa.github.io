@@ -4,6 +4,7 @@
   font-family: 'Poppins', sans-serif;
   color: #1A0B8C;
   font-size: 50px;
+  margin: 0px;
 }
 
 .subtitle {
@@ -11,6 +12,8 @@
   font-family: 'Poppins', sans-serif;
   color: #4132AC;
   font-size: 37px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .basic {
@@ -18,8 +21,8 @@
   color: black;
   font-size: 20px;
   text-align: left;
-  padding: 1em 0em 1em;
   line-height: 1.5;
+  margin: 5px;
 }
 
 body {
